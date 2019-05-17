@@ -10,6 +10,6 @@
         }
     ],
     "require": {
-        "vimeo/psalm": "dev-master"
+        "vimeo/psalm": "2.0.17"
     }
 }
